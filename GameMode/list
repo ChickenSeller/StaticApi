@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "英雄联盟 日服",
+    "process_files": [
+      "jpatch.exe",
+      "RiotClientCrashHandler.exe",
+      "RiotClientServices.exe",
+      "RiotClientUx.exe",
+      "RiotClientUxRender.exe",
+      "BsSndRpt.exe",
+      "LeagueClient.exe",
+      "LeagueClientUx.exe",
+      "LeagueClientUxRender.exe",
+      "Uninstall League of Legends.exe",
+      "League of Legends.exe",
+      "LeagueCrashHandler.exe"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "英雄联盟 台服",
+    "process_files": [
+      "wow_helper.exe",
+      "CrashReporter.exe",
+      "GarenaTV.exe",
+      "gxxapphelper.exe",
+      "gxxcef.exe",
+      "gxxsvc.exe",
+      "gxxsvcrev.exe",
+      "gxxupdate.exe",
+      "overlayhelper.exe",
+      "capturehelper.exe",
+      "uninst.exe",
+      "voiceassist.exe",
+      "Garena.exe",
+      "BsSndRpt.exe",
+      "League of Legends.exe",
+      "LeagueCrashHandler.exe",
+      "jpatch.exe",
+      "LeagueClient.exe",
+      "LeagueClientUx.exe",
+      "LeagueClientUxRender.exe"
+    ]
+  }
+]
