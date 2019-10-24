@@ -1,0 +1,7 @@
+# VisualStudio Code, 0
+Code.exe
+unins000.exe
+inno_updater.exe
+CodeHelper.exe
+rg.exe
+winpty-agent.exe

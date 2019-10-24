@@ -1,0 +1,1 @@
+# Bypass LAN (Socks5 + HTTP) (Non System Proxy), 5, 0

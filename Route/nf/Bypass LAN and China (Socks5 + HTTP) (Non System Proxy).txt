@@ -1,0 +1,1 @@
+# Bypass LAN and China (Socks5 + HTTP) (Non System Proxy), 5, 1
