@@ -6,7 +6,6 @@
     "route_available": true,
     "icon": "https://raw.githubusercontent.com/ChickenSeller/StaticApi/master/GameIcon/1.png",
     "process_files": [
-	  "chrome.exe",
       "jpatch.exe",
       "RiotClientCrashHandler.exe",
       "RiotClientServices.exe",
@@ -45193,6 +45192,22 @@
       {
         "ip": "223.255.255.255",
         "mask": "32"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chrome (全局)",
+    "process_available": true,
+    "route_available": true,
+    "icon": "https://raw.githubusercontent.com/ChickenSeller/StaticApi/master/GameIcon/8.png",
+    "process_files": [
+      "chrome.exe"
+    ],
+    "routes": [
+      {
+        "ip": "0.0.0.0",
+        "mask": "0"
       }
     ]
   }
