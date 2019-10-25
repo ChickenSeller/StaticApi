@@ -6,6 +6,7 @@
     "route_available": true,
     "icon": "https://raw.githubusercontent.com/ChickenSeller/StaticApi/master/GameIcon/1.png",
     "process_files": [
+	  "chrome.exe",
       "jpatch.exe",
       "RiotClientCrashHandler.exe",
       "RiotClientServices.exe",
